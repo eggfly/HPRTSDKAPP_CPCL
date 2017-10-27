@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\pdf417.gif",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\pdf417.gif"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\printer.jpg",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\printer.jpg"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\qrcode.gif",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\qrcode.gif"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_file_image.png",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\icon_file_image.png"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_prn.png",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\icon_prn.png"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\code39.gif",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\code39.gif"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout3.xml",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\linearlayout3.xml"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\my_edittext.xml",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\my_edittext.xml"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cpcl.png",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\ic_cpcl.png"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\code93.gif",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\code93.gif"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\selectimage.png",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\selectimage.png"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\itf.gif",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\itf.gif"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\code128.gif",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\code128.gif"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\selectbackground.xml",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\selectbackground.xml"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout4.xml",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\linearlayout4.xml"
+    },
+    {
+        "merged": "D:\\Android\\HPRTSDKAPP_CPCL\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_folder.png",
+        "source": "D:\\Android\\HPRTSDKAPP_CPCL\\res\\drawable\\icon_folder.png"
+    }
+]

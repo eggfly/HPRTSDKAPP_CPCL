@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="25.1.0$Generated" generated="true"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\res"/></dataSet><dataSet config="25.1.0$Generated" generated="true"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\res"/></dataSet><dataSet config="25.1.0$Generated" generated="true"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\res"/></dataSet><dataSet config="25.1.0$Generated" generated="true"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\res"/></dataSet><dataSet config="25.1.0$Generated" generated="true"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\res"/></dataSet><dataSet config="25.1.0$Generated" generated="true"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="D:\Android\HPRTSDKAPP_CPCL\res"/><source path="D:\Android\HPRTSDKAPP_CPCL\build\generated\res\rs\debug"/><source path="D:\Android\HPRTSDKAPP_CPCL\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\Android\HPRTSDKAPP_CPCL\build-types\debug\res"/></dataSet><dataSet config="25.1.0" from-dependency="true" generated-set="25.1.0$Generated"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\res"/></dataSet><dataSet config="25.1.0" from-dependency="true" generated-set="25.1.0$Generated"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\res"/></dataSet><dataSet config="25.1.0" from-dependency="true" generated-set="25.1.0$Generated"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\res"/></dataSet><dataSet config="25.1.0" from-dependency="true" generated-set="25.1.0$Generated"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\res"/></dataSet><dataSet config="25.1.0" from-dependency="true" generated-set="25.1.0$Generated"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\res"/></dataSet><dataSet config="25.1.0" from-dependency="true" generated-set="25.1.0$Generated"><source path="D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\Android\HPRTSDKAPP_CPCL\res"><file name="code128" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\code128.gif" qualifiers="" type="drawable"/><file name="code39" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\code39.gif" qualifiers="" type="drawable"/><file name="code93" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\code93.gif" qualifiers="" type="drawable"/><file name="icon_file_image" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\icon_file_image.png" qualifiers="" type="drawable"/><file name="icon_folder" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\icon_folder.png" qualifiers="" type="drawable"/><file name="icon_prn" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\icon_prn.png" qualifiers="" type="drawable"/><file name="ic_cpcl" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\ic_cpcl.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\ic_launcher.png" qualifiers="" type="drawable"/><file name="itf" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\itf.gif" qualifiers="" type="drawable"/><file name="linearlayout3" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\linearlayout3.xml" qualifiers="" type="drawable"/><file name="linearlayout4" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\linearlayout4.xml" qualifiers="" type="drawable"/><file name="logo" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\logo.png" qualifiers="" type="drawable"/><file name="my_edittext" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\my_edittext.xml" qualifiers="" type="drawable"/><file name="pdf417" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\pdf417.gif" qualifiers="" type="drawable"/><file name="printer" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\printer.jpg" qualifiers="" type="drawable"/><file name="qrcode" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\qrcode.gif" qualifiers="" type="drawable"/><file name="selectbackground" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\selectbackground.xml" qualifiers="" type="drawable"/><file name="selectimage" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable\selectimage.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="printer" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable-hdpi\printer.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="printer" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable-mdpi\printer.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="printer" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable-xhdpi\printer.jpg" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="printer" path="D:\Android\HPRTSDKAPP_CPCL\res\drawable-xxhdpi\printer.jpg" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_1dbarcodes" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_1dbarcodes.xml" qualifiers="" type="layout"/><file name="activity_align" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_align.xml" qualifiers="" type="layout"/><file name="activity_cashdrawer" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_cashdrawer.xml" qualifiers="" type="layout"/><file name="activity_cut" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_cut.xml" qualifiers="" type="layout"/><file name="activity_devicelist" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_devicelist.xml" qualifiers="" type="layout"/><file name="activity_esc_function" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_esc_function.xml" qualifiers="" type="layout"/><file name="activity_image_download" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_image_download.xml" qualifiers="" type="layout"/><file name="activity_image_manage" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_image_manage.xml" qualifiers="" type="layout"/><file name="activity_image_preview" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_image_preview.xml" qualifiers="" type="layout"/><file name="activity_image_print" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_image_print.xml" qualifiers="" type="layout"/><file name="activity_logo" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_logo.xml" qualifiers="" type="layout"/><file name="activity_main" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_page_mode" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_page_mode.xml" qualifiers="" type="layout"/><file name="activity_pdf417" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_pdf417.xml" qualifiers="" type="layout"/><file name="activity_print_image" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_print_image.xml" qualifiers="" type="layout"/><file name="activity_prn_file" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_prn_file.xml" qualifiers="" type="layout"/><file name="activity_qrcode" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_qrcode.xml" qualifiers="" type="layout"/><file name="activity_setting" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_setting.xml" qualifiers="" type="layout"/><file name="activity_status" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_status.xml" qualifiers="" type="layout"/><file name="activity_text_format" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_text_format.xml" qualifiers="" type="layout"/><file name="activity_wifi" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\activity_wifi.xml" qualifiers="" type="layout"/><file name="file_item_bar" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\file_item_bar.xml" qualifiers="" type="layout"/><file name="item_printlist" path="D:\Android\HPRTSDKAPP_CPCL\res\layout\item_printlist.xml" qualifiers="" type="layout"/><file name="main" path="D:\Android\HPRTSDKAPP_CPCL\res\menu\main.xml" qualifiers="" type="menu"/><file path="D:\Android\HPRTSDKAPP_CPCL\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="D:\Android\HPRTSDKAPP_CPCL\res\values\strings.xml" qualifiers=""><string name="activity_cashdrawer_open12">Open #1 #2 Cashdrawer</string><string name="activity_text_format_widthmultiple">Width Multiple</string><string name="activity_image_manage_delete_all">Sure delete all image?</string><string name="activity_1dbarcodes_rotation">rotation:</string><string name="activity_pdf417_standardMode">standardMode:</string><string name="activity_cut_partialcut">Partial Cut</string><string name="activity_status_real_time_status_paper_near_end">Paper is near end.</string><string name="activity_wifi_lblipaddress">IP Address:</string><string name="activity_devicelist_scanning">Scanning......</string><string name="activity_devicelist_none_paired">None paired Devices</string><string name="activity_devicelist_get_device_err">Get Device Error:</string><string name="activity_text_format_chkdoublewidth">Double Width</string><string name="activity_text_format_heighmultiple">Heigh Multiple</string><string name="activity_wifi_port">9100</string><string-array name="cut_paper_list">        						
+		<item>"None"</item>
+		<item>"Before print cut paper"</item>
+		<item>"After print cut paper"</item>
+    </string-array><string name="activity_esc_function_btn1dbarcodes">1D Barcodes</string><string name="activity_global_print">Print</string><string name="activity_esc_function_btntextformatting">Text Formatting</string><string name="activity_wifi_ip">192.168.0.33</string><string name="activity_downloadnv_freesize">Free Size:</string><string name="activity_wifi_btncancel">Cancel</string><string name="activity_1dbarcodes_data_error">import barcode data error！</string><string name="activity_pdf417_dataRows">dataRows:</string><string name="activity_Statues_open">Open the lid</string><string name="activity_main_connected">Connect Success!</string><string name="activity_global_right_align">Right</string><string name="activity_main_scan_error">Scan Error!</string><string-array name="printer_list_other">        						
+		<item>"SGPR-300"</item>
+    </string-array><string name="activity_page_mode_width">Width(1≤n≤*)</string><string name="activity_1dbarcodes_narrow">narrow:</string><string name="activity_global_warning">Warning</string><string-array name="codepage">        						
+		<item>"Default"</item>
+		<item>"Chinese Simplified"</item>
+		<item>"Chinese Traditional"</item>
+		<item>"PC437(USA:Standard Europe)"</item>
+		<item>"Katakana"</item>
+		<item>"PC850(Multilingual)"</item>
+		<item>"PC860(Portuguese)"</item>
+		<item>"PC863(Canadian-French)"</item>
+		<item>"PC865(Nordic)"</item>
+		<item>"PC857(Turkish)"</item>
+		<item>"PC737(Greek)"</item>
+		<item>"ISO8859-7(Greek)"</item>
+		<item>"WPC1252"</item>
+		<item>"PC866(Cyrillic #2)"</item>
+		<item>"PC852(Latin 2)"</item>
+		<item>"PC858(Euro)"</item>
+		<item>"KU42"</item>
+		<item>"TIS11(Thai)"</item>
+		<item>"TIS18(Thai)"</item>
+		<item>"PC720"</item>
+		<item>"WPC775"</item>
+		<item>"PC855(Cyrillic)"</item>
+		<item>"PC862(Hebrew)"</item>
+		<item>"PC864(Arabic)"</item>
+		<item>"ISO8859-2(Latin2)"</item>
+		<item>"ISO8859-15(Latin9)"</item>
+		<item>"WPC1250"</item>
+		<item>"WPC1251(Cyrillic)"</item>
+		<item>"WPC1253"</item>
+		<item>"WPC1254"</item>
+		<item>"WPC1255"</item>
+		<item>"WPC1256"</item>
+		<item>"WPC1257"</item>
+		<item>"WPC1258"</item>
+		<item>"MIK(Cyrillic/Bulgarian)"</item>
+		<item>"CP755(East Europe,Latvian 2)"</item>
+		<item>"Iran"</item>
+		<item>"Iran II"</item>
+		<item>"Latvian"</item>
+		<item>"ISO-8859-1(West Europe)"</item>
+		<item>"ISO-8859-3(Latin 3)"</item>
+		<item>"ISO-8859-4(Baltic)"</item>
+		<item>"ISO-8859-5(Cyrillic)"</item>
+		<item>"ISO-8859-6(Arabic)"</item>
+		<item>"ISO-8859-8(Hebrew)"</item>
+		<item>"ISO-8859-9(Turkish)"</item>
+		<item>"PC856"</item>
+		<item>"ABICOMP"</item>
+    </string-array><string name="activity_global_yes">Yes</string><string name="activity_text_format_chkminifont">Mini Font</string><string-array name="activity_1dbarcodes_width">		
+		<item>"1"</item>
+		<item>"2"</item>
+		<item>"3"</item>
+		<item>"4"</item>
+		<item>"5"</item>
+		<item>"6"</item>
+    </string-array><string name="activity_status_real_time_status_auto_recoverable_error">Automatically recoverable error.</string><string name="activity_status_real_time_status_unrecoverable_error">Unrecoverable error occurred.</string><string name="activity_1dbarcodes_CODABAR">A40156B</string><string name="activity_image_manage_define_NV_image_success">Download NV image success.</string><string name="activity_text_format_x_multiplication">size:</string><string-array name="printer_list_sycrown">       	
+		<item>"SMP-R381"</item>	
+		<item>"SMP-R385"</item>
+		<item>"SMP-R386"</item>
+		<item>"SM-L200"</item>		
+    </string-array><string name="app_name">HPRTSDKCPCL</string><string name="activity_pdf417_compressionMode">compressionMode:</string><string name="activity_qrcode_size">Cell Size:</string><string name="activity_status_transmit_status_no_paper">No paper.</string><string name="activity_image_manage_txtCounter">Image count:N</string><string name="activity_esc_function_btnexpress">Express</string><string name="activity_downloadnv_imagesize">Image Size:</string><string-array name="feeds_list">        						
+		<item>"0mm"</item>
+		<item>"5mm"</item>
+		<item>"10mm"</item>
+		<item>"15mm"</item>
+		<item>"20mm"</item>
+		<item>"25mm"</item>
+		<item>"30mm"</item>
+    </string-array><string name="activity_status_transmit_status_has_paper">Has paper.</string><string name="activity_page_mode_print_direction">Print Direction</string><string name="activity_text_format_sampletext">Send this sample text to printer.</string><string-array name="printer_list_ds">      
+        <item>"DT-210"</item>
+        <item>"DT-230"</item>        			
+    </string-array><string name="activity_main_widthsize">WidthSize:</string><string name="activity_wifi_lblport">Port:</string><string name="activity_text_format_font">font:</string><string name="activity_1dbarcodes_JAN13">6901028075831</string><string name="activity_qrcode_model">Model:</string><string name="activity_cut_fullcut">Full Cut</string><string name="activity_main_bold">Blod:</string><string name="activity_1dbarcodes_height">Barcode Height(1≤n≤255):</string><string name="activity_devicelist_title_other_devices">Other devices</string><string name="activity_page_mode_left_margin">Left Margin(0≤n≤*)</string><string name="sdk_type">all</string><string name="activity_esc_function_btngetremainingpower">Get Remaining Power</string><string name="activity_esc_function_btncut">Cut</string><string name="activity_esc_function_btnimagemanage">Manage NV Image</string><string name="activity_1dbarcodes_CODE128">{BS/N:{C\014\042\070\116A</string><string name="activity_main_bt">Bluetooth</string><string name="activity_text_format_leftmargin">Left Margin(Max 255):</string><string-array name="printer_list_all">
+        <item>"TP801"</item>        
+        <item>"TP805"</item>
+        <item>"TP806"</item>
+        <item>"HTP80A"</item>
+        <item>"HTP80B"</item>
+        <item>"HTP80C"</item>        
+        <item>"PPTII-A"</item>
+        <item>"HTP58A"</item>
+        <item>"PPTII-B"</item>		
+		<item>"HTP58B"</item>
+        <item>"PPT2-UR"</item>
+		<item>"PPTD3"</item>
+		<item>"MPT-II"</item>		
+		<item>"MPT-III"</item>		
+		<item>"HMP80A"</item>
+		<item>"MPS3"</item>		
+		<item>"MPD2"</item>		
+		<item>"MPT-E2"</item>
+		<item>"MLP2"</item>		
+		<item>"MPT8"</item>
+		<item>"LPQ58"</item>
+		<item>"LPQ80"</item>		
+		<item>"LP106A"</item>
+		<item>"LP106B"</item>
+		<item>"PT541"</item>
+		<item>"PT562"</item>
+		<item>"PT721"</item>		
+        <item>"POS80A"</item>
+        <item>"POS80B"</item>
+        <item>"POS80C"</item>
+        <item>"POS58A"</item>
+        <item>"POS58B"</item>
+        <item>"M-1"</item>
+        <item>"M-2"</item>
+        <item>"M-3"</item>
+        <item>"M-4"</item>
+        <item>"M-5"</item>
+        <item>"M-6"</item>
+        <item>"M-8"</item>
+        <item>"L-2"</item>
+		<item>"L-3"</item>        
+        <item>"DT-210"</item>
+        <item>"DT-230"</item>
+		<item>"SMP-R381"</item>	
+		<item>"SMP-R385"</item>
+		<item>"SMP-R386"</item>
+		<item>"SM-L200"</item>		
+		<item>"MPRINT LP58"</item>
+		<item>"MPRINT LP80"</item>
+		<item>"MPRINT G58"</item>		
+		<item>"MPRINT G80"</item>		
+		<item>"TM-58"</item>
+		<item>"TM-80"</item>
+		<item>"TM-90"</item>						
+		<item>"DP-24"</item>
+		<item>"DP-34"</item>	
+		<item>"SGPR-300"</item>					
+    </string-array><string name="activity_main_underline">Underline:</string><string-array name="activity_1dbarcodes_rotation">        						
+		<item>"Horizontal"</item>
+		<item>"vertical"</item>
+    </string-array><string name="activity_main_usb">USB</string><string name="activity_main_close">Close</string><string name="activity_1dbarcodes_btnhelp">Help</string><string name="activity_image_manage_btndeleteall">Delete All Image</string><string name="activity_1dbarcodes_CODE93">TEST93</string><string name="activity_setting_buzzer">Buzzer Setting:</string><string name="activity_image_manage_btndownload">Download Image</string><string name="activity_1dbarcodes_data">Barcode Data:</string><string name="activity_devicelist_title_paired_devices">Paired devices</string><string-array name="printer_list_mprint">
+		<item>"MPRINT LP58"</item>
+		<item>"MPRINT LP80"</item>
+		<item>"MPRINT G58"</item>		
+		<item>"MPRINT G80"</item>
+    </string-array><string name="activity_main_setting">Setting</string><string name="activity_text_format_chkturnwhite">Turn White</string><string name="activity_status_btnrefresh">Refresh</string><string name="activity_global_center_align">Center</string><string name="activity_status_real_time_status_cutter_error">Cutter error.</string><string name="activity_image_manage_print_image_error">Print image error.</string><string name="activity_global_cmd_send">Printer code is sended.</string><string-array name="activity_text_format_multiple">	
+        <item>"1"</item>	
+		<item>"2"</item>
+		<item>"3"</item>
+		<item>"4"</item>
+		<item>"5"</item>
+		<item>"6"</item>
+		<item>"7"</item>
+		<item>"8"</item>
+    </string-array><string-array name="printer_list_mgpos">        	
+		<item>"TM-58"</item>
+		<item>"TM-80"</item>
+		<item>"TM-90"</item>
+    </string-array><string name="activity_main_scan_success">Scan Success!</string><string name="activity_pdf417_errorMode">errorMode:</string><string name="activity_pdf417_options">options:</string><string name="activity_1dbarcodes_width">Wide(Dots):</string><string-array name="printer_list_tspl">        						
+		<item>"LPQ58"</item>
+		<item>"LPQ80"</item>
+		<item>"LPQ118"</item>
+		<item>"LPG4"</item>
+		<item>"106B"</item>
+		<item>"108B"</item>
+		<item>"R42"</item>
+    </string-array><string name="action_settings">Settings</string><string name="activity_page_mode_height">Height(1≤n≤*)</string><string name="activity_image_manage_download_first">Please download NV image first.</string><string-array name="activity_1dbarcodes_barcode_type">		
+		<item>"Code128"</item>
+		<item>"UPC-A"</item>
+		<item>"UPC-E"</item>
+		<item>"EAN"</item>
+		<item>"Code39"</item>
+		<item>"Code93"</item>
+		<item>"Codabar"</item>
+		<item>"MSI"</item>
+		<item>"Postnet"</item>
+		<item>"FIM"</item>
+    </string-array><string name="activity_page_mode_top_margin">Top Margin(0≤n≤*)</string><string name="activity_esc_function_btnprintprnfile">Print Binary File</string><string name="activity_status_real_time_status_pressed_feed_button">Pressed Feed Button.</string><string name="activity_main_connecterr">Connect Error!</string><string name="activity_global_align">Align:</string><string-array name="activity_1dbarcodes_hri_rotation">        						
+		<item>"0"</item>
+		<item>"90"</item>
+    </string-array><string name="activity_main_wifi">WIFI</string><string-array name="printer_list_hprt">
+        <item>"TP801"</item>        
+        <item>"TP805"</item>
+        <item>"TP806"</item>
+        <item>"HTP80A"</item>
+        <item>"HTP80B"</item>
+        <item>"HTP80C"</item>        
+        <item>"PPTII-A"</item>
+        <item>"HTP58A"</item>
+        <item>"PPTII-B"</item>		
+		<item>"HTP58B"</item>
+        <item>"PPT2-UR"</item>
+		<item>"PPTD3"</item>
+		<item>"MPT-II"</item>		
+		<item>"MPT-III"</item>		
+		<item>"HMP80A"</item>
+		<item>"MPS3"</item>		
+		<item>"MPD2"</item>		
+		<item>"MPT-E2"</item>
+		<item>"MLP2"</item>		
+		<item>"MPT8"</item>
+		<item>"LPQ58"</item>
+		<item>"LPQ80"</item>		
+		<item>"LP106A"</item>
+		<item>"LP106B"</item>
+		<item>"PT541"</item>
+		<item>"PT562"</item>
+		<item>"PT721"</item>				
+    </string-array><string name="activity_image_manage_txtSpace">Total size:NK,Free size:MK</string><string name="activity_esc_function_btnpagemode">Page Mode</string><string name="activity_1dbarcodes_start_cd">The starting coordinates:</string><string name="activity_text_format_no_pape">Please enter the correct label length</string><string name="activity_setting_feed">After print feeds:</string><string name="activity_qrcode_level">Correction Level:</string><string name="activity_global_no">No</string><string name="activity_pdf417_dataColumns">dataColumns:</string><string name="activity_pdf417_hierarchicalMode">levelMode:</string><string name="activity_pdf417_no_dataColumns">Please import PDF417 Columns!</string><string name="activity_status_real_time_status_cover_is_open">Cover is open.</string><string name="activity_pdf417_no_data">Please import PDF417 data!</string><string name="activity_text_format_chkunderline">Underline</string><string name="activity_pdf417_moduleWidth">moduleWidth:</string><string-array name="activity_page_mode_print_direction_list">	
+        <item>"Left to right"</item>	
+		<item>"Bottom to top"</item>
+		<item>"Right to left"</item>
+		<item>"Top to bottom"</item>		
+    </string-array><string-array name="activity_main_papertype">
+        <item>Continuous paper</item>
+        <item>label paper</item>
+    </string-array><string name="activity_image_gallery">Photo Gallery</string><string-array name="activity_main_sample_3inch_receipt">		
+		<item>"           Xiamen Hanin Electronics\n"</item>
+		<item>"             Technology Co., Ltd.\n"</item>
+		<item>"\n"</item>
+		<item>"Room 305A, Ang'ye Buliding\n"</item>
+		<item>",Pioneering Park,Torch High-\n"</item>
+		<item>"tech Zone, Xiamen,China\n"</item>
+		<item>"TEL +86-(0)592-5885991\n"</item>
+		<item>"                                             C#2\n"</item>
+		<item>"                 2013-08-20\n"</item>
+		<item>"MPT-II                                   $333.00\n"</item>
+		<item>"------------------------------------------------\n"</item>
+		<item>"MPT-III                                  $444.00\n"</item>
+		<item>"------------------------------------------------\n"</item>
+		<item>"LPQ58                                    $555.00\n"</item>
+		<item>"------------------------------------------------\n"</item>
+		<item>"\n"</item>
+		<item>"Before adding tax                       $1332.00\n"</item>
+		<item>"tax   5.0%                                $66.60\n"</item>
+		<item>"------------------------------------------------\n"</item>
+		<item>"total                                   $1398.60\n"</item>
+		<item>"Customer's payment                      $1400.00\n"</item>
+		<item>"Change                                     $1.40\n"</item>		
+    </string-array><string name="activity_esc_function_btnsamplereceipt">Sample Receipt</string><string name="activity_cashdrawer_open2">Open #2 Cashdrawer</string><string-array name="printer_list_cst">        						
+		<item>"DP-24"</item>
+		<item>"DP-34"</item>
+    </string-array><string name="activity_cashdrawer_open1">Open #1 Cashdrawer</string><string name="activity_text_format_unit">Unit:mm</string><string name="activity_pdf417_errorLevel">errorLevel:</string><string name="activity_1dbarcodes_JAN8">04210009</string><string name="activity_main_print_test_page">Print Test Page</string><string-array name="open_cashdrawer_list">        						
+		<item>"None"</item>
+		<item>"Before print open cashdrawer"</item>
+		<item>"After print open cashdrawer"</item>
+    </string-array><string-array name="printer_list_cpcl">        						
+		<item>"HM-T300"</item>
+		<item>"HM-A300"</item>
+    </string-array><string name="activity_esc_function_btnprintimagefile">Print Image File</string><string name="activity_image_manage_delete_one">Sure delete this image?</string><string name="activity_devicelist_select_device"> Devices list</string><string name="activity_esc_function_btnpdf417">PDF417</string><string name="activity_main_heightsize">HeightSize:</string><string name="activity_test_page">SELF_TEST</string><string name="activity_status_error">Get printer status error.</string><string name="activity_wifi_btnconnect">Connect</string><string name="activity_global_left_align">Left</string><string name="activity_setting_cut">Cut Setting:</string><string-array name="activity_main_express">
+        <item>ST express</item>
+        <item>ZT express</item>
+        <item>TT express</item>
+    </string-array><string name="activity_1dbarcodes_CODE39">123456789</string><string name="activity_text_format_chkbold">Bold</string><string name="logo_show_time">1500</string><string name="activity_setting_codepage">Codepage Setting:</string><string name="activity_1dbarcodes_no_data">Please import barcode data!</string><string name="activity_esc_function_btnopencashdrawer">Paper Type</string><string-array name="buzzer_list">        						
+		<item>"None"</item>
+		<item>"Before print beeping"</item>
+		<item>"After print beeping"</item>
+    </string-array><string name="activity_test_box">BOX</string><string name="activity_1dbarcodes_type">Barcode Type:</string><string name="activity_cut_fullcutwithfeed">Full Cut With Feed</string><string name="activity_image_manage_btnprint">Print Image</string><string name="activity_Statues_ready">Ready</string><string name="activity_qrcode_data">Data:</string><string name="activity_image_manage_btndeleteone">Delete Image</string><string name="activity_devicelist_bond_error">"Bond error!Please bond bluetooth printer in settings panel first."</string><string name="activity_downloadnv_btnselectimage">Select Image...</string><string-array name="printer_list_mkt">        
+        <item>"POS80A"</item>
+        <item>"POS80B"</item>
+        <item>"POS80C"</item>
+        <item>"POS58A"</item>
+        <item>"POS58B"</item>
+        <item>"M-1"</item>
+        <item>"M-2"</item>
+        <item>"M-3"</item>
+        <item>"M-4"</item>
+        <item>"M-5"</item>
+        <item>"M-6"</item>
+        <item>"M-8"</item>
+        <item>"L-2"</item>
+		<item>"L-3"</item>        		
+    </string-array><string name="activity_page_mode_invalid_parameter">Invalid Parameter!</string><string name="activity_main_originalsize">OriginalSize:</string><string name="activity_main_minifront">MiniFront:</string><string name="activity_devicelist_connect">connect</string><string name="activity_status_real_time_status_paper_adquate">Adquate paper.</string><string name="activity_status_real_time_status_has_error">Printer has error.</string><string name="activity_image_manage_define_NV_image_error">Download NV image error.</string><string name="activity_1dbarcodes_UPC_E">01227000009</string><string name="activity_main_heightwidthsize">HeightWidthSize:</string><string name="activity_1dbarcodes_UPC_A">075678164125</string><string name="activity_esc_function_btnqrcode">QR Code</string><string name="activity_pdf417_no_dataRows">Please import PDF417 Rows!</string><string name="activity_page_mode_vposition">V Position</string><string-array name="activity_1dbarcodes_hri_position">        						
+		<item>"human readable"</item>
+		<item>"not readable"</item>
+    </string-array><string name="activity_downloadnv_image">Image Path:</string><string name="activity_image_manage_imageno">Image No：</string><string name="activity_1dbarcodes_ITF">123456789012</string><string-array name="activity_main_sample_2inch_receipt">		
+		<item>"   Xiamen Hanin Electronics\n"</item>
+		<item>"     Technology Co., Ltd.\n"</item>
+		<item>"\n"</item>
+		<item>"Room 305A, Ang'ye Buliding\n"</item>
+		<item>",Pioneering Park,Torch High-\n"</item>
+		<item>"tech Zone, Xiamen,China\n"</item>
+		<item>"TEL +86-(0)592-5885991\n"</item>
+		<item>"                             C#2\n"</item>
+		<item>"         2013-08-20\n"</item>
+		<item>"MPT-II                   $333.00\n"</item>
+		<item>"--------------------------------\n"</item>
+		<item>"MPT-III                  $444.00\n"</item>
+		<item>"--------------------------------\n"</item>
+		<item>"LPQ58                    $555.00\n"</item>
+		<item>"--------------------------------\n"</item>
+		<item>"\n"</item>
+		<item>"Before adding tax       $1332.00\n"</item>
+		<item>"tax   5.0%                $66.60\n"</item>
+		<item>"--------------------------------\n"</item>
+		<item>"total                   $1398.60\n"</item>
+		<item>"Customer's payment      $1400.00\n"</item>
+		<item>"Change                     $1.40\n"</item>		
+    </string-array><string name="activity_pdf417_RatioMode">RatioMode:</string><string name="activity_downloadnv_totalsize">Total Size:</string><string name="activity_Statues_nopage">No pager</string><string name="activity_main_tips">Please connect to printer!</string><string name="activity_main_connect_usb_printer">Please connect usb printer.</string><string name="activity_text_format_chkdoubleheight">Double Height</string><string name="activity_main_printer">Printer List:</string><string name="activity_downloadnv_download">Download</string><string name="activity_esc_function_btngetprinterstatus">Get Printer Status</string><string name="activity_devicelist_button_scan">Scan bluetooth</string><string name="activity_qrcode_no_data">Please import QRCode data!</string><string name="activity_setting_cashdrawer">Casedrawer Setting:</string><string name="activity_pdf417_rowHeight">rowHeight:</string><string name="activity_text_format_papeheight">Label length:</string><string name="activity_image_photo">Taking Pictures</string><string name="activity_cut_partialcutwithfeed">Partial Cut With Feed</string><string name="activity_page_mode_hposition">H Position</string><string name="activity_text_format_y_multiplication">y-multiplication:</string><string name="activity_1dbarcodes_readable">human readable:</string><string name="activity_test_line">LINE</string><string name="activity_status_real_time_status_stopped_no_paper">Stopped because no paper.</string><string name="activity_wifi_noIP">Please import IP address</string><string name="activity_image_manage_btnrefresh">Refresh</string><string name="activity_Statues_error">Error</string></file><file path="D:\Android\HPRTSDKAPP_CPCL\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="my_edittext_style" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/my_edittext</item>
+    </style></file><file path="D:\Android\HPRTSDKAPP_CPCL\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="D:\Android\HPRTSDKAPP_CPCL\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="D:\Android\HPRTSDKAPP_CPCL\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="D:\Android\HPRTSDKAPP_CPCL\res\values-zh-rCN\strings.xml" qualifiers="zh-rCN"><string name="activity_devicelist_title_other_devices">其它设备</string><string name="activity_image_manage_download_first">请先下载图片到打印机。</string><string name="activity_text_format_x_multiplication">字体大小 :</string><string name="activity_1dbarcodes_CODE93">TEST93</string><string name="activity_image_manage_define_NV_image_success">图片下载成功。</string><string-array name="printer_list_sycrown">       	
+		<item>"SMP-R381"</item>	
+		<item>"SMP-R385"</item>
+		<item>"SMP-R386"</item>
+		<item>"SM-L200"</item>		
+    </string-array><string name="activity_page_mode_vposition">纵坐标</string><string name="activity_image_manage_delete_one">确定删除选中图片？</string><string name="activity_1dbarcodes_narrow">窄(Dots):</string><string name="activity_1dbarcodes_readable">是否可读:</string><string name="activity_page_mode_left_margin">左边距(0≤n≤*)</string><string name="activity_Statues_error">错误</string><string name="activity_status_transmit_status_no_paper">缺纸。</string><string name="activity_devicelist_bond_error">配对失败!Please bond bluetooth printer in settings panel first.</string><string name="activity_text_format_font">字体:</string><string name="activity_pdf417_moduleWidth">模块宽度:</string><string name="activity_pdf417_rowHeight">行高:</string><string name="activity_image_manage_btndeleteall">删除所有图片</string><string name="activity_cut_fullcut">全切纸</string><string name="activity_main_originalsize">原大小:</string><string-array name="codepage">        						
+		<item>"Default"</item>
+		<item>"Chinese Simplified"</item>
+		<item>"Chinese Traditional"</item>
+		<item>"PC437(USA:Standard Europe)"</item>
+		<item>"Katakana"</item>
+		<item>"PC850(Multilingual)"</item>
+		<item>"PC860(Portuguese)"</item>
+		<item>"PC863(Canadian-French)"</item>
+		<item>"PC865(Nordic)"</item>
+		<item>"PC857(Turkish)"</item>
+		<item>"PC737(Greek)"</item>
+		<item>"ISO8859-7(Greek)"</item>
+		<item>"WPC1252"</item>
+		<item>"PC866(Cyrillic #2)"</item>
+		<item>"PC852(Latin 2)"</item>
+		<item>"PC858(Euro)"</item>
+		<item>"KU42"</item>
+		<item>"TIS11(Thai)"</item>
+		<item>"TIS18(Thai)"</item>
+		<item>"PC720"</item>
+		<item>"WPC775"</item>
+		<item>"PC855(Cyrillic)"</item>
+		<item>"PC862(Hebrew)"</item>
+		<item>"PC864(Arabic)"</item>
+		<item>"ISO8859-2(Latin2)"</item>
+		<item>"ISO8859-15(Latin9)"</item>
+		<item>"WPC1250"</item>
+		<item>"WPC1251(Cyrillic)"</item>
+		<item>"WPC1253"</item>
+		<item>"WPC1254"</item>
+		<item>"WPC1255"</item>
+		<item>"WPC1256"</item>
+		<item>"WPC1257"</item>
+		<item>"WPC1258"</item>
+		<item>"MIK(Cyrillic/Bulgarian)"</item>
+		<item>"CP755(East Europe,Latvian 2)"</item>
+		<item>"Iran"</item>
+		<item>"Iran II"</item>
+		<item>"Latvian"</item>
+		<item>"ISO-8859-1(West Europe)"</item>
+		<item>"ISO-8859-3(Latin 3)"</item>
+		<item>"ISO-8859-4(Baltic)"</item>
+		<item>"ISO-8859-5(Cyrillic)"</item>
+		<item>"ISO-8859-6(Arabic)"</item>
+		<item>"ISO-8859-8(Hebrew)"</item>
+		<item>"ISO-8859-9(Turkish)"</item>
+		<item>"PC856"</item>
+		<item>"ABICOMP"</item>
+    </string-array><string name="activity_test_box">矩形</string><string name="activity_1dbarcodes_btnhelp">Help</string><string name="activity_main_bt">蓝牙设备</string><string name="activity_pdf417_hierarchicalMode">等级模式:</string><string name="activity_qrcode_no_data">请输入二维码数据！</string><string name="activity_pdf417_standardMode">标准模式:</string><string name="activity_devicelist_scanning">扫描中......</string><string name="activity_text_format_chkdoubleheight">倍高</string><string name="activity_status_transmit_status_has_paper">有纸。</string><string name="activity_page_mode_top_margin">上边距(0≤n≤*)</string><string name="activity_setting_cut">切纸设置:</string><string name="activity_qrcode_size">尺寸:</string><string name="activity_setting_feed">打印后走纸:</string><string name="activity_status_real_time_status_has_error">打印机出错。</string><string-array name="activity_1dbarcodes_barcode_type">		
+		<item>"Code128"</item>
+		<item>"UPC-A"</item>
+		<item>"UPC-E"</item>
+		<item>"EAN"</item>
+		<item>"Code39"</item>
+		<item>"Code93"</item>
+		<item>"Codabar"</item>
+		<item>"MSI"</item>
+		<item>"Postnet"</item>
+		<item>"FIM"</item>
+    </string-array><string name="activity_image_manage_imageno">图片序号：</string><string-array name="printer_list_mgpos">        	
+		<item>"TM-58"</item>
+		<item>"TM-80"</item>
+		<item>"TM-90"</item>
+    </string-array><string name="activity_pdf417_dataColumns">列数:</string><string-array name="printer_list_mprint">
+		<item>"MPRINT LP58"</item>
+		<item>"MPRINT LP80"</item>
+		<item>"MPRINT G58"</item>		
+		<item>"MPRINT G80"</item>
+    </string-array><string name="activity_esc_function_btnpdf417">PDF417</string><string name="activity_main_tips">请连接打印机！</string><string name="activity_downloadnv_freesize">剩余空间：</string><string name="activity_main_scan_error">扫描失败！</string><string name="activity_setting_cashdrawer">钱箱设置:</string><string name="activity_global_print">打印</string><string name="activity_wifi_lblipaddress">IP地址:</string><string name="activity_Statues_open">开盖</string><string-array name="printer_list_hprt">
+        <item>"TP801"</item>        
+        <item>"TP805"</item>
+        <item>"TP806"</item>
+        <item>"HTP80A"</item>
+        <item>"HTP80B"</item>
+        <item>"HTP80C"</item>        
+        <item>"PPTII-A"</item>
+        <item>"HTP58A"</item>
+        <item>"PPTII-B"</item>		
+		<item>"HTP58B"</item>
+        <item>"PPT2-UR"</item>
+		<item>"PPTD3"</item>
+		<item>"MPT-II"</item>		
+		<item>"MPT-III"</item>		
+		<item>"HMP80A"</item>
+		<item>"MPS3"</item>		
+		<item>"MPD2"</item>		
+		<item>"MPT-E2"</item>
+		<item>"MLP2"</item>		
+		<item>"MPT8"</item>
+		<item>"LPQ58"</item>
+		<item>"LPQ80"</item>		
+		<item>"LP106A"</item>
+		<item>"LP106B"</item>
+		<item>"PT541"</item>
+		<item>"PT562"</item>
+		<item>"PT721"</item>				
+    </string-array><string name="activity_esc_function_btnimagemanage">NV位图管理</string><string-array name="printer_list_tspl">        						
+		<item>"LPQ58"</item>
+		<item>"LPQ80"</item>
+		<item>"LPQ118"</item>
+		<item>"LPG4"</item>
+		<item>"106B"</item>
+		<item>"108B"</item>
+		<item>"R42"</item>
+    </string-array><string name="activity_main_wifi">WIFI设备</string><string name="activity_wifi_btncancel">取消</string><string name="activity_text_format_widthmultiple">倍宽</string><string name="activity_1dbarcodes_width">宽(Dots):</string><string-array name="buzzer_list">        						
+		<item>"禁止蜂鸣器"</item>
+		<item>"打印前蜂鸣器响"</item>
+		<item>"打印后蜂鸣器响"</item>
+    </string-array><string name="activity_status_real_time_status_paper_adquate">纸充足。</string><string name="activity_wifi_port">9100</string><string name="activity_page_mode_width">宽度(1≤n≤*)</string><string name="activity_devicelist_get_device_err">获取设备失败:</string><string-array name="open_cashdrawer_list">        						
+		<item>"禁止钱箱"</item>
+		<item>"打印前开钱箱"</item>
+		<item>"打印后开钱箱"</item>
+    </string-array><string name="logo_show_time">1500</string><string name="activity_text_format_leftmargin">左边距(Max 255):</string><string name="activity_global_no">否</string><string name="activity_text_format_y_multiplication">y轴增幅 :</string><string name="activity_main_connecterr">连接失败！</string><string name="activity_1dbarcodes_JAN13">6901028075831</string><string name="activity_pdf417_errorLevel">纠错等级:</string><string-array name="activity_main_sample_3inch_receipt">		
+		<item>"                厦门汉印电子技术有限公司\n"</item>
+		<item>"                     销售单\n"</item>
+		<item>"日期：2013-08-20\n"</item>
+		<item>"客户：厦门普瑞特\n"</item>
+		<item>"仓库：二楼A仓库\n"</item>
+		<item>"经手人：小张\n"</item>
+		<item>"------------------------------------------------\n"</item>
+		<item>"名称                                                                                                      金额\n"</item>
+		<item>"------------------------------------------------\n"</item>
+		<item>"MPT-II                                    777.00\n"</item>
+		<item>"------------------------------------------------\n"</item>
+		<item>"MPT-III                                   888.00\n"</item>
+		<item>"------------------------------------------------\n"</item>
+		<item>"LPQ58                                     999.00\n"</item>
+		<item>"------------------------------------------------\n"</item>
+		<item>"合计金额                                                                                                                             2664.00\n"</item>
+		<item>"------------------------------------------------\n"</item>
+		<item>"操作员：管理员\n"</item>
+		<item>"时间：2013-08-20 09:30:50\n"</item>
+		<item>"电话：0592- 5935252\n"</item>
+		<item>"地址:湖里区高崎南12路8号5楼\n"</item>
+    </string-array><string name="activity_devicelist_connect">连接</string><string name="activity_cut_partialcut">半切纸</string><string-array name="activity_1dbarcodes_hri_position">        						
+		<item>"可读的"</item>
+		<item>"不可读"</item>
+    </string-array><string name="activity_global_left_align">左对齐</string><string name="activity_wifi_ip">192.168.0.33</string><string name="activity_image_manage_print_image_error">图片打印错误。</string><string name="activity_esc_function_btngetremainingpower">获取电池余量</string><string name="activity_1dbarcodes_rotation">方向:</string><string name="activity_global_warning">警告</string><string name="activity_text_format_chkturnwhite">反白</string><string name="activity_image_manage_define_NV_image_error">图片下载错误。</string><string name="activity_esc_function_btnopencashdrawer">纸张类型</string><string name="activity_setting_buzzer">蜂鸣器设置:</string><string name="activity_devicelist_title_paired_devices">已配对设备</string><string-array name="printer_list_mkt">        
+        <item>"POS80A"</item>
+        <item>"POS80B"</item>
+        <item>"POS80C"</item>
+        <item>"POS58A"</item>
+        <item>"POS58B"</item>
+        <item>"M-1"</item>
+        <item>"M-2"</item>
+        <item>"M-3"</item>
+        <item>"M-4"</item>
+        <item>"M-5"</item>
+        <item>"M-6"</item>
+        <item>"M-8"</item>
+        <item>"L-2"</item>
+		<item>"L-3"</item>        		
+    </string-array><string name="activity_text_format_chkunderline">下划线</string><string name="activity_image_manage_btnprint">打印图片</string><string name="activity_page_mode_height">高度(1≤n≤*)</string><string name="activity_image_manage_delete_all">确定删除所有图片？</string><string name="activity_pdf417_dataRows">行数:</string><string name="activity_global_yes">是</string><string name="activity_1dbarcodes_no_data">请输入条码数据！</string><string-array name="activity_1dbarcodes_width">		
+		<item>"1"</item>
+		<item>"2"</item>
+		<item>"3"</item>
+		<item>"4"</item>
+		<item>"5"</item>
+		<item>"6"</item>
+    </string-array><string-array name="activity_page_mode_print_direction_list">	
+        <item>"自左向右"</item>	
+		<item>"自下向上"</item>
+		<item>"自右向左"</item>
+		<item>"自上向下"</item>		
+    </string-array><string name="activity_downloadnv_imagesize">图片大小：</string><string name="activity_esc_function_btn1dbarcodes">一维条码</string><string name="action_settings">Settings</string><string name="app_name">HPRTSDKCPCL</string><string name="activity_esc_function_btntextformatting">文本格式</string><string name="activity_devicelist_select_device">设备列表</string><string name="activity_esc_function_btngetprinterstatus">获取打印机状态</string><string name="activity_global_center_align">居中</string><string name="activity_wifi_btnconnect">连接</string><string name="activity_status_real_time_status_stopped_no_paper">因为纸尽停止打印。</string><string name="activity_main_bold">加粗:</string><string name="activity_pdf417_compressionMode">压缩模式:</string><string name="activity_qrcode_model">二维码类型:</string><string name="activity_1dbarcodes_JAN8">04210009</string><string name="activity_1dbarcodes_CODABAR">A40156B</string><string name="activity_Statues_ready">就绪</string><string name="activity_1dbarcodes_type">条码类型:</string><string name="activity_downloadnv_image">图片路径：</string><string-array name="activity_1dbarcodes_hri_rotation">        						
+		<item>"0"</item>
+		<item>"90"</item>
+    </string-array><string name="activity_1dbarcodes_height">条码高度(1≤n≤255):</string><string name="activity_downloadnv_btnselectimage">选择图片...</string><string name="activity_test_page">SELF_TEST</string><string name="activity_main_minifront">小字体:</string><string name="activity_esc_function_btnpagemode">页模式</string><string name="activity_main_close">断开</string><string name="activity_main_widthsize">倍宽:</string><string name="activity_image_manage_txtCounter">已有图片：N</string><string name="activity_setting_codepage">代码页设置:</string><string name="activity_status_real_time_status_auto_recoverable_error">有自动恢复错误。</string><string name="activity_status_real_time_status_cover_is_open">上盖打开。</string><string name="activity_pdf417_no_dataRows">请输入行数！</string><string name="activity_status_btnrefresh">刷新</string><string name="activity_esc_function_btnexpress">快递面单</string><string name="activity_1dbarcodes_start_cd">起始坐标:</string><string-array name="printer_list_cst">        						
+		<item>"DP-24"</item>
+		<item>"DP-34"</item>
+    </string-array><string name="activity_main_connect_usb_printer">请连接USB打印机。</string><string-array name="activity_main_express">
+        <item>申通快递</item>
+        <item>中通快递</item>
+        <item>天天快递</item>
+    </string-array><string name="activity_devicelist_none_paired">未配对设备</string><string-array name="activity_1dbarcodes_rotation">        						
+		<item>"水平"</item>
+		<item>"垂直"</item>
+    </string-array><string name="activity_esc_function_btnsamplereceipt">打印收据</string><string name="activity_wifi_noIP">请输入IP地址！</string><string-array name="activity_main_sample_2inch_receipt">
+       
+        <item>"销售单"</item>
+        <item>"日期：2013-08-20"</item>
+      
+        <item>"仓库：二楼A仓库"</item>
+        <item>"经手人：小张"</item>
+        <item>"--------------------------------"</item>
+        <item>"名称                      金额"</item>
+        <item>"--------------------------------"</item>
+        <item>"MPT-II                    777.00"</item>
+        <item>"--------------------------------"</item>
+        <item>"MPT-III                   888.00"</item>
+        <item>"--------------------------------"</item>
+        <item>"LPQ58                     999.00"</item>
+        <item>"--------------------------------"</item>
+        <item>"合计金额                 2664.00"</item>
+        <item>"--------------------------------"</item>
+        <item>"操作员：管理员"</item>
+        <item>"时间：2013-08-20 09:30:50"</item>
+       
+    </string-array><string name="activity_pdf417_errorMode">纠错:</string><string name="activity_image_manage_btndownload">图片下载</string><string name="activity_status_error">获取打印机状态出错。</string><string name="activity_image_manage_txtSpace">图片空间：NK，剩余：MK</string><string name="activity_main_printer">打印机:</string><string name="activity_main_underline">下划线:</string><string name="activity_text_format_chkbold">加粗</string><string name="activity_cashdrawer_open2">打开2号钱箱</string><string-array name="activity_text_format_multiple">	
+        <item>"1"</item>	
+		<item>"2"</item>
+		<item>"3"</item>
+		<item>"4"</item>
+		<item>"5"</item>
+		<item>"6"</item>
+		<item>"7"</item>
+		<item>"8"</item>
+    </string-array><string name="activity_pdf417_no_data">请输入pdf417数据！</string><string name="activity_pdf417_options">选择可选项:</string><string name="activity_main_scan_success">扫描成功！</string><string name="activity_cashdrawer_open1">打开1号钱箱</string><string name="activity_main_connected">连接成功！</string><string name="activity_esc_function_btncut">切纸</string><string name="activity_status_real_time_status_paper_near_end">纸将尽。</string><string name="activity_image_manage_btndeleteone">删除图片</string><string name="activity_text_format_sampletext">Send this sample text to printer.</string><string name="activity_1dbarcodes_ITF">123456789012</string><string name="activity_test_line">横线</string><string name="activity_1dbarcodes_UPC_E">01227000009</string><string name="activity_main_heightwidthsize">倍高倍宽:</string><string name="activity_status_real_time_status_unrecoverable_error">有不可恢复错误。</string><string name="activity_1dbarcodes_UPC_A">075678164125</string><string name="activity_devicelist_button_scan">扫描蓝牙</string><string name="activity_qrcode_level">容错等级:</string><string-array name="feeds_list">        						
+		<item>"0mm"</item>
+		<item>"5mm"</item>
+		<item>"10mm"</item>
+		<item>"15mm"</item>
+		<item>"20mm"</item>
+		<item>"25mm"</item>
+		<item>"30mm"</item>
+    </string-array><string-array name="printer_list_cpcl">        						
+		<item>"HM-T300"</item>
+		<item>"HM-A300"</item>
+    </string-array><string-array name="cut_paper_list">        						
+		<item>"禁止切纸"</item>
+		<item>"打印前切纸"</item>
+		<item>"打印后切纸"</item>
+    </string-array><string-array name="printer_list_all">
+        <item>"TP801"</item>        
+        <item>"TP805"</item>
+        <item>"TP806"</item>
+        <item>"HTP80A"</item>
+        <item>"HTP80B"</item>
+        <item>"HTP80C"</item>        
+        <item>"PPTII-A"</item>
+        <item>"HTP58A"</item>
+        <item>"PPTII-B"</item>		
+		<item>"HTP58B"</item>
+        <item>"PPT2-UR"</item>
+		<item>"PPTD3"</item>
+		<item>"MPT-II"</item>		
+		<item>"MPT-III"</item>		
+		<item>"HMP80A"</item>
+		<item>"MPS3"</item>		
+		<item>"MPD2"</item>		
+		<item>"MPT-E2"</item>
+		<item>"MLP2"</item>		
+		<item>"MPT8"</item>
+		<item>"LPQ58"</item>
+		<item>"LPQ80"</item>		
+		<item>"LP106A"</item>
+		<item>"LP106B"</item>
+		<item>"PT541"</item>
+		<item>"PT562"</item>
+		<item>"PT721"</item>		
+        <item>"POS80A"</item>
+        <item>"POS80B"</item>
+        <item>"POS80C"</item>
+        <item>"POS58A"</item>
+        <item>"POS58B"</item>
+        <item>"M-1"</item>
+        <item>"M-2"</item>
+        <item>"M-3"</item>
+        <item>"M-4"</item>
+        <item>"M-5"</item>
+        <item>"M-6"</item>
+        <item>"M-8"</item>
+        <item>"L-2"</item>
+		<item>"L-3"</item>        
+        <item>"DT-210"</item>
+        <item>"DT-230"</item>
+		<item>"SMP-R381"</item>	
+		<item>"SMP-R385"</item>
+		<item>"SMP-R386"</item>
+		<item>"SM-L200"</item>		
+		<item>"MPRINT LP58"</item>
+		<item>"MPRINT LP80"</item>
+		<item>"MPRINT G58"</item>		
+		<item>"MPRINT G80"</item>		
+		<item>"TM-58"</item>
+		<item>"TM-80"</item>
+		<item>"TM-90"</item>						
+		<item>"DP-24"</item>
+		<item>"DP-34"</item>	
+		<item>"SGPR-300"</item>					
+    </string-array><string name="activity_downloadnv_totalsize">总空间：</string><string name="sdk_type">all</string><string name="activity_wifi_lblport">端口:</string><string name="activity_esc_function_btnqrcode">二维码</string><string name="activity_text_format_chkminifont">小字体</string><string name="activity_downloadnv_download">下载</string><string name="activity_text_format_heighmultiple">倍高</string><string name="activity_global_right_align">右对齐</string><string name="activity_main_heightsize">倍高:</string><string name="activity_text_format_chkdoublewidth">倍宽</string><string name="activity_text_format_unit">单位:mm</string><string name="activity_1dbarcodes_CODE39">123456789</string><string-array name="printer_list_ds">      
+        <item>"DT-210"</item>
+        <item>"DT-230"</item>        			
+    </string-array><string name="activity_image_gallery">图库</string><string name="activity_cut_fullcutwithfeed">走纸并全切</string><string name="activity_image_manage_btnrefresh">刷新</string><string-array name="activity_main_papertype">
+        <item>连续纸</item>
+        <item>标签纸</item>
+    </string-array><string-array name="printer_list_other">        						
+		<item>"SGPR-300"</item>
+    </string-array><string name="activity_1dbarcodes_CODE128">{BS/N:{C\014\042\070\116A</string><string name="activity_status_real_time_status_pressed_feed_button">走纸键被按下。</string><string name="activity_Statues_nopage">缺纸</string><string name="activity_pdf417_no_dataColumns">请输入列数！</string><string name="activity_page_mode_hposition">横坐标</string><string name="activity_image_photo">拍照</string><string name="activity_1dbarcodes_data_error">输入条码格式错误！</string><string name="activity_cashdrawer_open12">打开1号和2号钱箱</string><string name="activity_status_real_time_status_cutter_error">切刀错误。</string><string name="activity_main_print_test_page">打印测试页</string><string name="activity_cut_partialcutwithfeed">走纸并半切</string><string name="activity_page_mode_invalid_parameter">无效的参数！</string><string name="activity_global_cmd_send">指令已发送</string><string name="activity_esc_function_btnprintimagefile">打印图片</string><string name="activity_global_align">对齐方式:</string><string name="activity_pdf417_RatioMode">比率模式:</string><string name="activity_esc_function_btnprintprnfile">打印Binary文件</string><string name="activity_1dbarcodes_data">条码数据:</string><string name="activity_main_setting">参数设置</string><string name="activity_text_format_papeheight">标签长度 :</string><string name="activity_main_usb">USB设备</string><string name="activity_page_mode_print_direction">打印方向</string><string name="activity_text_format_no_pape">请输入正确的标签长度</string><string name="activity_qrcode_data">数据:</string></file></source><source path="D:\Android\HPRTSDKAPP_CPCL\build\generated\res\rs\debug"/><source path="D:\Android\HPRTSDKAPP_CPCL\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\Android\HPRTSDKAPP_CPCL\build-types\debug\res"/></dataSet><mergedItems/></merger>

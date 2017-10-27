@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:3:5-37
+	android:versionName
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml
+		INJECTED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml
+		INJECTED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:14:5-95
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:15:3-90
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:15:20-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:16:3-93
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:16:20-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:17:3-90
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:17:20-71
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:18:3-65
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:18:20-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:19:2-65
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:19:19-62
+uses-feature#android.hardware.usb.host
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:20:2-59
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:20:16-56
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:21:2-77
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:21:13-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:22:2-78
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:22:19-75
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:23:5-84
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:23:22-81
+uses-feature#android.hardware.camera
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:24:5-62
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:24:19-59
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:25:2-69
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:25:16-66
+application
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:27:5-63:19
+MERGED from [com.android.support:support-v4:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] D:\Android\HPRTSDKAPP_CPCL\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:29:9-41
+	android:theme
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:31:9-40
+activity#com.hprtsdksample.Activity_Logo
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:33:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:37:27-74
+activity#com.hprtsdksample.Activity_Main
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:41:9-77
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:41:19-65
+activity#com.hprtsdksample.Activity_1DBarcodes
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:42:9-83
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:42:19-71
+activity#com.hprtsdksample.Activity_DeviceList
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:43:9-45:14
+	android:theme
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:43:19-71
+activity#com.hprtsdksample.Activity_Image_Preview
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:46:9-86
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:46:19-74
+activity#com.hprtsdksample.Activity_Print_Image
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:47:9-49:14
+	android:theme
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:47:19-72
+activity#com.hprtsdksample.Activity_PRNFile
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:50:9-80
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:50:19-68
+activity#com.hprtsdksample.Activity_Image_File
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:51:9-83
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:51:19-71
+activity#com.hprtsdksample.Activity_QRCode
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:52:9-79
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:52:19-67
+activity#com.hprtsdksample.Activity_Setting
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:53:9-80
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:53:19-68
+activity#com.hprtsdksample.Activity_TextFormat
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:54:9-83
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:54:19-71
+activity#com.hprtsdksample.Activity_Wifi
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:55:9-57:14
+	android:theme
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:55:19-65
+activity#com.hprtsdksample.Activity_Image_Download
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:58:9-87
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:58:19-75
+activity#com.hprtsdksample.Activity_Image_Print
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:59:9-84
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:59:19-72
+activity#com.hprtsdksample.Activity_Status
+ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:60:9-62:14
+	android:theme
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from D:\Android\HPRTSDKAPP_CPCL\AndroidManifest.xml:60:19-67

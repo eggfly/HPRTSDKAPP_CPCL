@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Android_SDK_CPCL_V0.1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/Android_SDK_CPCL_V0.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
